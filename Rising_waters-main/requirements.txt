@@ -1,0 +1,7 @@
+Flask
+joblib
+numpy
+pandas
+scikit-learn
+xgboost
+# Exact versions are optional; add if you need reproducible environments
